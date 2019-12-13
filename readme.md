@@ -19,7 +19,7 @@ To run the project, you can use the command :
 **java -jar SemWebProject-0.0.1-SNAPSHOT.jar**
 
 If you want to compile sources run 
-*mvn clean package* in **sources/SemWebProject/**
+*mvn clean package* in **sources/SemWebProject/** and then you will find *.jar* file in **sources/SemWebProject/target** folder.
 
 To import project import pom.xml has maven project in your IDE.
 
