@@ -50,7 +50,7 @@ Follow this [link](https://jena.apache.org/index.html) to learn more about Apach
 	* The request is done using Apache jena (see pom.xml).
 * Second there is a rest controller that request [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) to find important place near a station 
 (**in restController/ProximityRestController.java**).
-	* This controller is called by Js [Axios](##Axios) when we clic on a marker on the map.
+	* This controller is called by Js [Axios](#Axios) when we clic on a marker on the map.
 
 ## RDFa
   
