@@ -75,7 +75,7 @@ We use [DataTables](https://datatables.net/) to provide a table that can be sort
 
 # Who did what ?
 
-We have often worked together, but but we can express the division of labor like this :
+We have often worked together, but we can express the division of labor like this :
 
 |                |Didier-Roche François    |Gentile Pierre                       |
 |----------------|-------------------------|--------------|
