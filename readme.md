@@ -1,3 +1,4 @@
+### Didier--Roche François - Gentile Pierre
 # General description
 The aim of this project is to do a website that provide bikes stations informations and some other informations linked to this bikes stations using the principles semantic web. Follow this [link](https://en.wikipedia.org/wiki/Semantic_Web) to learn more about semantic web.
 
@@ -48,7 +49,7 @@ Follow this [link](https://jena.apache.org/index.html) to learn more about Apach
 * First there is a controller that load all the stations from Apache Jena Fuseki (**in controller/StationListController.java**). 
 	* The request is done using Apache jena (see pom.xml).
 * Second there is a rest controller that request [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) to find important place near a station 
-(**in restController/ProximityListController.java**).
+(**in restController/ProximityRestController.java**).
 	* Like the first controller, the request is done using Apache jena (see pom.xml).
 
 ## RDFa
